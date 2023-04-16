@@ -1,5 +1,5 @@
 # Machine-Learning-Research-Website
-This is the repository for the project for machine learning research website.
+This is the repository for the machine learning research website.
 
 I created this website maninly for sharing my personal projects that are related to Machine Learning.
 
